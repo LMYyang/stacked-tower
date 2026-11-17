@@ -1,0 +1,29 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "叠塔"
+      }
+    },
+    {
+      "path": "pages/room/room",
+      "style": {
+        "navigationBarTitleText": "房间"
+      }
+    },
+    {
+      "path": "pages/game/game",
+      "style": {
+        "navigationBarTitleText": "对局中",
+        "navigationBarHidden": true
+      }
+    }
+  ],
+  "globalStyle": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#5b6abf",
+    "navigationBarTitleText": "叠塔",
+    "navigationBarTextStyle": "white"
+  }
+}

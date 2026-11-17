@@ -1,0 +1,25 @@
+{
+  "name": "叠塔",
+  "appid": "",
+  "description": "叠塔合作卡牌游戏",
+  "version": "1.0.0",
+  "transform": {
+    "uni-app": {
+      "compilerVersion": "3"
+    }
+  },
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": false
+    }
+  },
+  "mp-toutiao": {
+    "appid": ""
+  },
+  "h5": {
+    "devServer": {
+      "port": 8080
+    }
+  }
+}
